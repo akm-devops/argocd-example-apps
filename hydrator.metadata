@@ -1,8 +1,8 @@
 {
   "repoURL": "https://github.com/akm-devops/argocd-example-apps",
-  "drySha": "27c566295f2688d9db50a0fa1dfd8d016455f3b0",
+  "drySha": "22875a97c7d7d655b7829d8d0ebf9a115cb17a0b",
   "author": "ashwinkmdevops <ashwinkmdevops@gmail.com>",
-  "date": "2025-09-29T07:15:25Z",
+  "date": "2025-09-29T08:19:02Z",
   "subject": "Update values.yaml",
-  "body": "3 replicas\n"
+  "body": "2 replicas\n"
 }
